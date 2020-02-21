@@ -1,0 +1,37 @@
+<meta>
+    UTILS
+    <script src="utils/c_Utils.lua" type="client"/>
+    LIBS
+    <script src="libs/MapFactory.lua" type="client"/>
+    <script src="libs/RadarFactory.lua" type="client"/>
+    CLIENT
+    <script src="client/c_Radar.lua" type="client"/>
+    IMAGES
+    <file src="images/map.png"/>
+    <file src="images/player.png"/>
+    ICONS
+    <file src="images/blips/1.png"/>
+    <file src="images/blips/2.png"/>
+    <file src="images/blips/3.png"/>
+    <file src="images/blips/4.png"/>
+    <file src="images/blips/5.png"/>
+    <file src="images/blips/6.png"/>
+    <file src="images/blips/7.png"/>
+    <file src="images/blips/8.png"/>
+    <file src="images/blips/9.png"/>
+    <file src="images/blips/10.png"/>
+    <file src="images/blips/11.png"/>
+    <file src="images/blips/12.png"/>
+    <file src="images/blips/13.png"/>
+    <file src="images/blips/14.png"/>
+    <file src="images/blips/15.png"/>
+    <file src="images/blips/16.png"/>
+    <file src="images/blips/17.png"/>
+    <file src="images/blips/18.png"/>
+    <file src="images/blips/19.png"/>
+    <file src="images/blips/20.png"/>
+    <file src="images/blips/21.png"/>
+    <file src="images/blips/22.png"/>
+    <file src="images/blips/23.png"/>
+
+</meta>
